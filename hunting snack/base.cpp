@@ -140,6 +140,7 @@ void NextLevel() {
     GATE_EXIST = false; 
     CheckSnakeSize();
     ROUND++; 
+    SPEED++;
     GenerateFood(); 
 }
 // Function to process the dead of snake
