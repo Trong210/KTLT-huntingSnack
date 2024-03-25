@@ -17,6 +17,8 @@ int HEIGH_CONSOLE, WIDTH_CONSOLE;
 int FOOD_INDEX;
 int SIZE_SNAKE;
 int STATE;
+bool GATE_EXIST;
+int ROUND;
 
 const char* snake_string = "22120385";
 
@@ -133,7 +135,13 @@ void DrawSnakeAndFood(const char* str) {
 void CheckSnakeSize() { 
     if (SPEED >= MAX_SPEED) SIZE_SNAKE = 6; 
 }
-
+// Move to a new level
+void NextLevel() {
+    GATE_EXIST = false; 
+    CheckSnakeSize();
+    ROUND++; 
+    GenerateFood(); 
+}
 // Function to process the dead of snake
 void ProcessDead() {
     STATE = 0;

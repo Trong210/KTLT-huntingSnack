@@ -40,6 +40,7 @@ void PauseGame(HANDLE t);
 void Eat();
 void DrawSnakeAndFood(const char* str);
 void CheckSnakeSzie();
+void NextLevel();
 void ProcessDead();
 void MoveRight();
 void MoveLeft();

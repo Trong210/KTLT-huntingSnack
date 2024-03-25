@@ -1,22 +1,28 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\A. Documents\\GitHub\\KTLT-huntingSnack\\",
+  "WorkspaceRootPath": "C:\\Users\\TGVT\\source\\repos\\KTLT-huntingSnack\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8E52F6DC-735D-4920-B586-0D16DBDA9505}|hunting snack\\hunting snack.vcxproj|D:\\A. Documents\\GitHub\\KTLT-huntingSnack\\hunting snack\\menu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8E52F6DC-735D-4920-B586-0D16DBDA9505}|hunting snack\\hunting snack.vcxproj|solutionrelative:hunting snack\\menu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E52F6DC-735D-4920-B586-0D16DBDA9505}|hunting snack\\hunting snack.vcxproj|D:\\A. Documents\\GitHub\\KTLT-huntingSnack\\hunting snack\\base.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{8E52F6DC-735D-4920-B586-0D16DBDA9505}|hunting snack\\hunting snack.vcxproj|C:\\Users\\TGVT\\source\\repos\\KTLT-huntingSnack\\hunting snack\\base.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8E52F6DC-735D-4920-B586-0D16DBDA9505}|hunting snack\\hunting snack.vcxproj|solutionrelative:hunting snack\\base.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E52F6DC-735D-4920-B586-0D16DBDA9505}|hunting snack\\hunting snack.vcxproj|D:\\A. Documents\\GitHub\\KTLT-huntingSnack\\hunting snack\\base.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{8E52F6DC-735D-4920-B586-0D16DBDA9505}|hunting snack\\hunting snack.vcxproj|C:\\Users\\TGVT\\source\\repos\\KTLT-huntingSnack\\hunting snack\\base.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8E52F6DC-735D-4920-B586-0D16DBDA9505}|hunting snack\\hunting snack.vcxproj|solutionrelative:hunting snack\\base.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E52F6DC-735D-4920-B586-0D16DBDA9505}|hunting snack\\hunting snack.vcxproj|D:\\A. Documents\\GitHub\\KTLT-huntingSnack\\hunting snack\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TGVT\\source\\snake-master\\snake-master\\snake.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E52F6DC-735D-4920-B586-0D16DBDA9505}|hunting snack\\hunting snack.vcxproj|C:\\Users\\TGVT\\source\\repos\\KTLT-huntingSnack\\hunting snack\\menu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8E52F6DC-735D-4920-B586-0D16DBDA9505}|hunting snack\\hunting snack.vcxproj|solutionrelative:hunting snack\\menu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E52F6DC-735D-4920-B586-0D16DBDA9505}|hunting snack\\hunting snack.vcxproj|C:\\Users\\TGVT\\source\\repos\\KTLT-huntingSnack\\hunting snack\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8E52F6DC-735D-4920-B586-0D16DBDA9505}|hunting snack\\hunting snack.vcxproj|solutionrelative:hunting snack\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TGVT\\source\\snake-master\\snake-master\\snake.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +32,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,52 +40,74 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Source.cpp",
-              "DocumentMoniker": "D:\\A. Documents\\GitHub\\KTLT-huntingSnack\\hunting snack\\Source.cpp",
-              "RelativeDocumentMoniker": "hunting snack\\Source.cpp",
-              "ToolTip": "D:\\A. Documents\\GitHub\\KTLT-huntingSnack\\hunting snack\\Source.cpp",
-              "RelativeToolTip": "hunting snack\\Source.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "DocumentIndex": 5,
+              "Title": "snake.h",
+              "DocumentMoniker": "C:\\Users\\TGVT\\source\\snake-master\\snake-master\\snake.h",
+              "RelativeDocumentMoniker": "..\\..\\snake-master\\snake-master\\snake.h",
+              "ToolTip": "C:\\Users\\TGVT\\source\\snake-master\\snake-master\\snake.h",
+              "RelativeToolTip": "..\\..\\snake-master\\snake-master\\snake.h",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-25T11:37:10.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "snake.cpp",
+              "DocumentMoniker": "C:\\Users\\TGVT\\source\\snake-master\\snake-master\\snake.cpp",
+              "RelativeDocumentMoniker": "..\\..\\snake-master\\snake-master\\snake.cpp",
+              "ToolTip": "C:\\Users\\TGVT\\source\\snake-master\\snake-master\\snake.cpp",
+              "RelativeToolTip": "..\\..\\snake-master\\snake-master\\snake.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-25T10:31:42.003Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-25T11:37:07.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\TGVT\\source\\repos\\KTLT-huntingSnack\\hunting snack\\Source.cpp",
+              "RelativeDocumentMoniker": "hunting snack\\Source.cpp",
+              "ToolTip": "C:\\Users\\TGVT\\source\\repos\\KTLT-huntingSnack\\hunting snack\\Source.cpp",
+              "RelativeToolTip": "hunting snack\\Source.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-25T10:31:42.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "menu.cpp",
+              "DocumentMoniker": "C:\\Users\\TGVT\\source\\repos\\KTLT-huntingSnack\\hunting snack\\menu.cpp",
+              "RelativeDocumentMoniker": "hunting snack\\menu.cpp",
+              "ToolTip": "C:\\Users\\TGVT\\source\\repos\\KTLT-huntingSnack\\hunting snack\\menu.cpp",
+              "RelativeToolTip": "hunting snack\\menu.cpp",
+              "ViewState": "AQIAADQAAAAAAAAAAAAAAJQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-25T10:31:28.425Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "menu.cpp",
-              "DocumentMoniker": "D:\\A. Documents\\GitHub\\KTLT-huntingSnack\\hunting snack\\menu.cpp",
-              "RelativeDocumentMoniker": "hunting snack\\menu.cpp",
-              "ToolTip": "D:\\A. Documents\\GitHub\\KTLT-huntingSnack\\hunting snack\\menu.cpp",
-              "RelativeToolTip": "hunting snack\\menu.cpp",
-              "ViewState": "AQIAAH8AAAAAAAAAAAAAAJQAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-25T10:31:28.425Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "base.h",
-              "DocumentMoniker": "D:\\A. Documents\\GitHub\\KTLT-huntingSnack\\hunting snack\\base.h",
+              "DocumentMoniker": "C:\\Users\\TGVT\\source\\repos\\KTLT-huntingSnack\\hunting snack\\base.h",
               "RelativeDocumentMoniker": "hunting snack\\base.h",
-              "ToolTip": "D:\\A. Documents\\GitHub\\KTLT-huntingSnack\\hunting snack\\base.h",
+              "ToolTip": "C:\\Users\\TGVT\\source\\repos\\KTLT-huntingSnack\\hunting snack\\base.h",
               "RelativeToolTip": "hunting snack\\base.h",
-              "ViewState": "AQIAADAAAAAAAAAAAAAAABEAAAALAAAA",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACoAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-03-25T10:29:39.7Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "base.cpp",
-              "DocumentMoniker": "D:\\A. Documents\\GitHub\\KTLT-huntingSnack\\hunting snack\\base.cpp",
+              "DocumentMoniker": "C:\\Users\\TGVT\\source\\repos\\KTLT-huntingSnack\\hunting snack\\base.cpp",
               "RelativeDocumentMoniker": "hunting snack\\base.cpp",
-              "ToolTip": "D:\\A. Documents\\GitHub\\KTLT-huntingSnack\\hunting snack\\base.cpp",
+              "ToolTip": "C:\\Users\\TGVT\\source\\repos\\KTLT-huntingSnack\\hunting snack\\base.cpp",
               "RelativeToolTip": "hunting snack\\base.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAALAAAA",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAAAG4AAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-03-24T16:19:03.124Z",
               "EditorCaption": ""
