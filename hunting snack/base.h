@@ -39,6 +39,7 @@ void ExitGame(HANDLE t);
 void PauseGame(HANDLE t);
 void Eat();
 void DrawSnakeAndFood(const char* str);
+void CheckSnakeSzie();
 void ProcessDead();
 void MoveRight();
 void MoveLeft();
