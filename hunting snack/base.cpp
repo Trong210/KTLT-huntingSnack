@@ -129,6 +129,10 @@ void DrawSnakeAndFood(const char* str) {
     GotoXY(food[FOOD_INDEX].x, food[FOOD_INDEX].y);
     cout << str[index++];
 }
+// Check snake's size and speed 
+void CheckSnakeSize() { 
+    if (SPEED >= MAX_SPEED) SIZE_SNAKE = 6; 
+}
 
 // Function to process the dead of snake
 void ProcessDead() {
